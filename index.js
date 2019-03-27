@@ -1,67 +1,35 @@
-import paypal from './paypal.png'
-import paypalEcs from './paypal_ecs.png'
-import klarna from './klarna.png'
-import afterpayDefault from './afterpay_default.png'
-import sepadirectdebit from './sepadirectdebit.png'
-import ideal from './ideal.png'
-import cup from './cup.png'
-import cartebancaire from './cartebancaire.png'
-import visa from './visa.png'
-import mc from './mc.png'
-import uatp from './uatp.png'
-import amex from './amex.png'
-import maestro from './maestro.png'
-import maestrouk from './maestrouk.png'
-import diners from './diners.png'
-import discover from './discover.png'
-import visadankort from './visadankort.png'
-import jcb from './jcb.png'
-import laser from './laser.png'
-import solo from './solo.png'
-import bcmc from './bcmc.png'
-import bijcard from './bijcard.png'
-import dankort from './dankort.png'
-import hipercard from './hipercard.png'
-import elo from './elo.png'
-import visaalphabankbonus from './visaalphabankbonus.png'
-import mcalphabankbonus from './mcalphabankbonus.png'
-import karenmillen from './karenmillen.png'
-import oasis from './oasis.png'
-import warehouse from './warehouse.png'
-import unionpay from './unionpay.png'
-import mir from './mir.png'
-
 export default {
-  paypal,
-  paypalEcs,
-  klarna,
-  afterpayDefault,
-  sepadirectdebit,
-  ideal,
-  cup,
-  cartebancaire,
-  visa,
-  mc,
-  uatp,
-  amex,
-  maestro,
-  maestrouk,
-  diners,
-  discover,
-  visadankort,
-  jcb,
-  laser,
-  solo,
-  bcmc,
-  bijcard,
-  dankort,
-  hipercard,
-  elo,
-  visaalphabankbonus,
-  mcalphabankbonus,
-  karenmillen,
-  oasis,
-  warehouse,
-  unionpay,
-  mir
+  paypal: require('./paypal.png'),
+  paypal_ecs: require('./paypal_ecs.png'),
+  klarna: require('./klarna.png'),
+  afterpay_default: require('./afterpay_default.png'),
+  sepadirectdebit: require('./sepadirectdebit.png'),
+  ideal: require('./ideal.png'),
+  cup: require('./cup.png'),
+  cartebancaire: require('./cartebancaire.png'),
+  visa: require('./visa.png'),
+  mc: require('./mc.png'),
+  uatp: require('./uatp.png'),
+  amex: require('./amex.png'),
+  maestro: require('./maestro.png'),
+  maestrouk: require('./maestrouk.png'),
+  diners: require('./diners.png'),
+  discover: require('./discover.png'),
+  visadankort: require('./visadankort.png'),
+  jcb: require('./jcb.png'),
+  laser: require('./laser.png'),
+  vias: require('./visa.png'),
+  solo: require('./solo.png'),
+  bcmc: require('./bcmc.png'),
+  bijcard: require('./bijcard.png'),
+  dankort: require('./dankort.png'),
+  hipercard: require('./hipercard.png'),
+  elo: require('./elo.png'),
+  visaalphabankbonus: require('./visaalphabankbonus.png'),
+  mcalphabankbonus: require('./mcalphabankbonus.png'),
+  karenmillen: require('./karenmillen.png'),
+  oasis: require('./oasis.png'),
+  warehouse: require('./warehouse.png'),
+  unionpay: require('./unionpay.png'),
+  mir: require('./mir.png')
 }
