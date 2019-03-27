@@ -1,0 +1,23 @@
+{
+  "name": "adyen-payment-icons",
+  "version": "1.0.0",
+  "description": "Adyen Payment Icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellMotix/adyen-payment-icons.git"
+  },
+  "keywords": [
+    "payment",
+    "icons"
+  ],
+  "author": "Adyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShellMotix/adyen-payment-icons/issues"
+  },
+  "homepage": "https://github.com/ShellMotix/adyen-payment-icons#readme"
+}
